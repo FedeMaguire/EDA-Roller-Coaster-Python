@@ -9,5 +9,8 @@
 ![image](https://github.com/FedeMaguire/EDA-Roller-Coaster-Python/blob/main/screenshots/Screenshot%206.jpg?raw=true)
 **Some years have a higher rate of coasters introduced**
 ![image](https://github.com/FedeMaguire/EDA-Roller-Coaster-Python/blob/main/screenshots/Screenshot%205.jpg?raw=true)
-**This journey isn't just about numbers, it's a ride through coaster history. Seeing how coasters evolved from classic wood to modern steel giants.**
-![image](https://github.com/FedeMaguire/EDA-Roller-Coaster-Python/blob/main/screenshots/Screenshot%207jpg.jpg?raw=true)
+**Seeing how coasters evolved from classic wood to modern steel giants.**
+![image](https://github.com/FedeMaguire/EDA-Roller-Coaster-Python/blob/main/screenshots/Screenshot%208.jpg?raw=true)
+**This journey isn't just about numbers, it's a ride through coaster history, finding insight along the way.**
+![image](https://github.com/FedeMaguire/EDA-Roller-Coaster-Python/blob/main/screenshots/Screenshot%2010.jpg?raw=true)
+![image](https://github.com/FedeMaguire/EDA-Roller-Coaster-Python/blob/main/screenshots/Screenshot%209.jpg?raw=true)
