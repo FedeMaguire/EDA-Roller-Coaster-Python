@@ -1,4 +1,5 @@
  # :bar_chart::chart_with_upwards_trend::roller_coaster: EDA Roller Coaster Python (Pandas)
+ ![image](https://github.com/FedeMaguire/EDA-Roller-Coaster-Python/blob/main/screenshots/140428144335-theme-park-attractions-blue-fire.jpg?raw=true)
  # Overview
 **Performing Exploratory Data Analysis (EDA) on a roller coaster dataset with Pandas,  digging deep into the numbers to reveal fascinating trends.**
 ## Data Used
