@@ -7,5 +7,7 @@
 ![image](https://github.com/FedeMaguire/EDA-Roller-Coaster-Python/blob/main/screenshots/Screenshot%203.jpg?raw=true)
 **The taller the coaster, the faster it tends to go. It seems like height and speed go hand in hand.**
 ![image](https://github.com/FedeMaguire/EDA-Roller-Coaster-Python/blob/main/screenshots/Screenshot%206.jpg?raw=true)
+**Some years have a higher rate of coasters introduced**
+![image](https://github.com/FedeMaguire/EDA-Roller-Coaster-Python/blob/main/screenshots/Screenshot%205.jpg?raw=true)
 **This journey isn't just about numbers; it's a ride through coaster history. Seeing how coasters evolved from classic wood to modern steel giants.**
 ![image](https://github.com/FedeMaguire/EDA-Roller-Coaster-Python/blob/main/screenshots/Screenshot%207jpg.jpg?raw=true)
